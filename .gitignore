@@ -2,3 +2,5 @@
 langchain/.env
 llm-evaluation/.env
 llm-evaluation/venv
+gradio-tutorial/.env
+gradio-tutorial/.gradio/certificate.pem
