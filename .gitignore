@@ -1,3 +1,4 @@
 .qodo
 langchain/.env
 llm-evaluation/.env
+llm-evaluation/venv
