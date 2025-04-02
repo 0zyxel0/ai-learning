@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-community 
+langchain-openai
+chromadb
+langchain-chroma>=0.1.2
+docx2txt 
+pypdf
+bs4
+ipykernel
+google-genai
+langchain-google-genai
+langchain-google-vertexai

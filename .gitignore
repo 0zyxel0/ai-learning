@@ -4,3 +4,5 @@ llm-evaluation/.env
 llm-evaluation/venv
 gradio-tutorial/.env
 gradio-tutorial/.gradio/certificate.pem
+ragas-tutorial/venv
+ragas-tutorial/.env
